@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405702423224",
+    "firebase_url": "https://fode-88632.firebaseio.com",
+    "project_id": "fode-88632",
+    "storage_bucket": "fode-88632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405702423224:android:155956416f41d3c0113a4d",
+        "android_client_info": {
+          "package_name": "com.example.fd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405702423224-0guuqj6litb6h4d1qvr8rl312fgo637s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fd",
+            "certificate_hash": "be95971cd775e4879817db45ba275d525e406645"
+          }
+        },
+        {
+          "client_id": "405702423224-0trmc05basrlvf4vmi35pfsmkegpgs5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1CsjafWtrKF7c4ivg5YYt7qtd_FOHrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405702423224-0trmc05basrlvf4vmi35pfsmkegpgs5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
