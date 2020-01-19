@@ -1,0 +1,57 @@
+Egg:
+Synonyms:
+albumin, ovalbumin, ovomucoid, conalbumin, lysozyme, ovotransferrin, meringue, ovoglobulin, ovomacroglobulin, livetin, vitellin, ovovitellin, eggnog, globulin, ovomucin, ovivitelia
+Hidden Sources:
+lysozyme, lecithin, quiche
+Gluten:
+Synonyms:
+atta, bulgur, couscous, durum, einkorn, emmer, farina, fu, graham, high-gluten and high-protein flour, kamut, seitan, semolina, dinkel, faro, triticale, barley, bulgur, durum, graham, faro, malt, malt vinegar, matzo, rye bread, oatmeal, flour, wheat, wheat bran, wheat flour, wheat germ, wheat starch
+Hidden Sources:
+beer, ale, lager, bread, cookie, cereal, soy sauce, chocolate
+Milk:
+Synonyms:
+casein, sodium caseinate, lactalbumin, lactoglobulin, lactoferrin, whey, whey proteins, curds, lactose, lactate, modified milk ingredients, milk derivatives, hydrolyzed casein, hydrolyzed milk protein, milk, cheese, cottage cheese, cream, curds, diacetyl, ghee, butter, butter fat, butter oil, butter acid, sour cream
+Hidden Sources:
+Sorbet, seasoned potato chips, hot dogs or bologna, chocolate, margarine, butter, dressings, nisin, nougat, tuna fish
+Mustard:
+Synonyms:
+mustard seed, mustard, mustard powder, prepared mustard, mustard greens
+Hidden Sources:
+sprouted seeds, mayonnaise sauce, pesto sauce, ketchup, barbeque sauce, sausage, soup, pretzel, potato salad
+Peanut:
+Synonyms:
+goober nuts, goober peas, ground nuts, mandelonas, arachis oil, kernels, arachide, valencias, nut meats, beer nuts, arachide, nut meats, valencias, monkey nuts, peanut, peanut butter, peanut flour, peanut protein, ground nuts
+Hidden Sources:
+Almond icing, chilli,peanut oil, chocolate, gravy, egg rolls, hazelnut paste, ice cream, brown sugar, cookie, high protein flour, artifical butter, cheese, crackers, soy cheese sunflower seeds, pancakes, marzipan
+Fish:
+Synonyms:
+surimi, kamaboko, taramasalata, tarama, sushi, caviar, roe, anchovy, basa, bass, bluefish, bream, carp, catfish, char, chub, cisco, cod, eel, flounder, grouper, haddock, hake, halibut, herring, mackerel, mahi-mahi, marlin, monkfish, orange roughy, perch, pickerel, pike, plaice, pollock, pompano, porgy, rockfish, salmon, sardine, shark, smelt, snapper, sole, sturgeon, swordfish, tilapia, trout, tuna, turbot, white fish, whiting, sashimi, fish oil, abalone, clam, crab, crayfish, lobster, prawns, shrimp, crevette, cockle, conch, geoducks, limpets, mussels, octopus, oysters, periwinkle, quahaugs, scallops, snails, escargot, squid, calamari, whelks, ceviche, sashimi, sushi, tarama
+Hidden Sources:
+Worcestershire, antipasto, gelatin, marshmallows
+Sesame:
+Synonyms:
+tahini, tahina, gingelly seeds, hummus, halwa, benne seeds, sim sim, semsamol, sesamum indicum, til, sesame, sesame seeds, sesame seed
+Hidden Sources:
+halvah, sesame oil, sesame salt, shish kebab, tempeh, vegetable oil
+Soy:
+Synonyms:
+soy, soya, soybean, tofu, miso, tempeh, edamame, yuba, kinako, kouridofu, nimame, okara, soy lecithin, soy protein isolate, glycine max, soya sauce, nimame, natto, okara, soja, soybean, soyabeans, yuba, soy protein, hydrolyzed soy protein, miso
+Hidden Sources:
+Margarine, milled corn, soup stock cubes, Spanish sausage, bread crumbs, canned tuna, bread, bean sprouts, teriraky sauce, worcestershire sauce, soy cheese
+TreeNut:
+Synonyms:
+tree nuts, tree nut, nuts, almonds, brazil nuts, cashews, chestnuts, hazelnuts, hickory nuts, macadamia nuts, pecans, pine nutes, pistachios, walnut, marzipan, calisson, amazon nuts, anacardium nuts, filberts, queensland nuts, pignolias, pinon
+Hidden Sources:
+nut meats, queensland nut, peanut oil, peanut, nutella, hazelnut spread, cocoa, barbeque sauce.
+Wheat:
+Synonyms:
+spelt, kamut, triticale, gliadin, wheat germ agglutinin, bulgur, farina, durum, couscous, seitan, semolina, graham, emmer, atta
+Hidden Sources:
+icing sugar, baking powder, paprika, black pepper, seasonings, falafel, simulated meat, ice cream, beer, chicken broth, modified starch
+Sulphite:
+Synonyms:
+potassium bisulphite, potassium metabisulphite
+sodium bisulphite, sodium dithionite, sodium metabisulphite, sodium sulphite, sulphur dioxide, sulphiting agents, sulphurous acid
+E 220, E 221, E 222, E 223, E 224, E 225, E 226, E 227, E 228
+Hidden Sources:
+Coconut juice, vinegar, grape juice, wine, beer, cider, glucose, molasses, raisins, papaya, pineapple, dried potato, salad dressings, coconut, sliced apples, concentrated lemon juice, concentrated lime juice, tomato paste, deli meats, canned fruits and vegetables
